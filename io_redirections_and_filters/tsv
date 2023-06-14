@@ -1,8 +1,10 @@
-uplherc.upl.com -       807249607       GET     /       304     0
-uplherc.upl.com -       807249608       GET     /images/ksclogo-medium.gif      304     0
-uplherc.upl.com -       807249608       GET     /images/MOSAIC-logosmall.gif    304     0
-uplherc.upl.com -       807249608       GET     /images/USA-logosmall.gif       304     0
-ix-esc-ca2-07.ix.netcom.com     -       807249609       GET     /images/launch-logo.gif 200     1713
-uplherc.upl.com -       807249610       GET     /images/WORLD-logosmall.gif     304     0
-slppp6.intermind.net    -       807249610       GET     /history/skylab/skylab.html     200     1687
-piweba4y.prodigy.com    -       807249610       GET     /images/launchmedium.gif        200     11853
+host	logname	time	method	url	response	bytes	referer	useragent
+pppa006.compuserve.com	-	807256800	GET	/images/launch-logo.gif	200	1713		
+vcc7.langara.bc.ca	-	807256804	GET	/shuttle/missions/missions.html	200	8677		
+pppa006.compuserve.com	-	807256806	GET	/history/apollo/images/apollo-logo1.gif	200	1173		
+thing1.cchem.berkeley.edu	-	807256870	GET	/shuttle/missions/sts-70/sts-70-day-03-highlights.html	200	4705		
+202.236.34.35	-	807256881	GET	/whats-new.html	200	18936		
+bettong.client.uq.oz.au	-	807256884	GET	/history/skylab/skylab.html	200	1687		
+202.236.34.35	-	807256884	GET	/images/whatsnew.gif	200	651		
+202.236.34.35	-	807256885	GET	/images/KSC-logosmall.gif	200	1204		
+bettong.client.uq.oz.au	-	807256900	GET	/history/skylab/skylab.html	304	0
