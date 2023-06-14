@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f1 | uniq -c | sort -r 
+cut -f1 tsv | uniq -c | sort -r | head -n 11 | uniq -u
