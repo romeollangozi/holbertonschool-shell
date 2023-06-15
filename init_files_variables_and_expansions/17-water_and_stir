@@ -1,2 +1,4 @@
 #!/bin/bash
-BEST="School"
+FIRST=$((5#$WATER))
+SECOND=$((4#$STIR))
+echo "$((8#$FIRST+SECOND))"
