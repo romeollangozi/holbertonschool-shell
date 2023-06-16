@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | cat -n | tr -d " " | grep -e "^[13579]+*" | cut -d$'\t' -f2
+ls -1 | cat -n | tr -d " " | grep -e ""^\d*[13579]$"" | cut -d$'\t' -f2
