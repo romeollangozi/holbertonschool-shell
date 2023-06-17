@@ -1,2 +1,2 @@
 #!/bin/bash
-FIRST=$((5#$WATER)) SECOND=$((4#$STIR)) echo "$((8#$FIRST+SECOND))"
+printf '%o\n' $(( 5#$( echo $WATER | tr water 01234) + 5#$( echo $STIR | tr stir. 01234 ) )) | tr 01234567 behlnort
