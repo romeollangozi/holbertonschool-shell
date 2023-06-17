@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | cat -n | tr -d " " | grep -E "^[13579][^02468].*" | cut -d$'\t' -f2
+paste - - | cut -f1
